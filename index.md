@@ -1,8 +1,1 @@
-# h1
-## h2
-### h3
-
-#### etc
-
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![HPC](https://www.purestorage.com/content/dam/purestorage/knowledge/what-is-high-performance-computing.jpg.imgw.1280.720.jpg)
